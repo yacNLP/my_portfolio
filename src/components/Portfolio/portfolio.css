@@ -1,0 +1,15 @@
+.portoflioContainer{
+    background: red;
+    width: 100vw;
+    height: 80vh;
+    border: 2px solid yellow;
+}
+.portfolioTitle{
+    display: block;
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    position: relative;
+}

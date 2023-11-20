@@ -1,0 +1,126 @@
+.main-container {
+    width: 100vw;
+    max-width: 90rem;
+    margin: 0 auto;
+    overflow: hidden;
+
+    max-width: 90rem;
+    /* position: relative; */
+}
+
+.headingSec {
+    margin-top: 7rem;
+    margin-bottom: 6rem;
+}
+
+.headingSecTitle {
+    display: block;
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    position: relative;
+}
+
+
+.headingSecDesc {
+    display: block;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 500;
+    max-width: 80rem;
+    margin: auto;
+
+}
+
+
+.aboutMeContent {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    grid-gap: 10rem;
+    margin-bottom: 1rem;
+    
+}
+
+.domainsBars {
+
+    display: flex;
+    flex-direction: column;
+    margin-top: -1rem;
+
+}
+
+.domain {
+    /* border: 2px solid yellow;  */
+    margin: 0.5rem;
+    padding: 1rem;
+    align-items: center;
+    height: 9rem;
+    background: rgb(50, 50, 50);
+    border-radius: 0.5rem;
+    display: flex;
+}
+
+.domainImg {
+    object-fit: cover;
+    height: 3rem;
+    width: 3rem;
+    margin-right: 2rem;
+}
+
+
+.domainsTitle {
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+
+
+
+.skillsTitle {
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.skills {
+    margin-top: -0.4rem;;
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 2px solid red; */
+    justify-content: start;
+}
+
+.skills__skill {
+    padding: 1rem 1rem;
+    margin-bottom: 1.5rem;
+    margin-right: 1.5rem;
+    font-size: 1rem;
+    background: rgb(50, 50, 50);
+    border-radius: 5px;
+    font-weight: 600;
+    color: white;
+    
+}
+
+@media screen and (max-width: 840px) {
+    .aboutMeContent{
+        grid-template-columns: 1fr;
+        grid-gap: 5rem;
+    }
+    .skills__skill{
+        font-size: 0.9rem;
+        padding: 0.8rem 0.8rem;
+        margin: 0.5rem;
+    }
+    .skills{
+        justify-content: center;
+    }
+    
+
+    
+}
