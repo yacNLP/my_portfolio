@@ -6,6 +6,7 @@
     overflow: hidden;
     position: relative;
     max-width: 90rem; 
+    
 }
 
 .bg {
@@ -68,6 +69,18 @@
     vertical-align: middle;
     position: relative;
     right: 0.30rem;
+}
+
+@media screen and (max-width: 475px) {
+    .introText{
+        font-size: 2rem;
+    }
+    .introContent{
+        position: absolute;
+        left: -15px;
+        top: 65px;
+        
+    }
 }
 
 
