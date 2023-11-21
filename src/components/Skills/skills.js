@@ -12,7 +12,7 @@ const Skills = () => {
         <h2 className="headingSec">
           <span className="headingSecTitle">About Me</span>
           <span className="headingSecDesc">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. <br />{" "}
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit.{" "}
             Cupiditate impedit perspiciatis ad nemo maxime sunt nobis. <br />{" "}
             Facilis architecto voluptatem voluptate.
           </span>
