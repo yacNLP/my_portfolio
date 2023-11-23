@@ -1,10 +1,8 @@
 .projectsContainer{
-
+    
     width: 100vw;
-    max-width: 90rem;
-    margin: 0 auto;
-    overflow: hidden;
-    border: 2px solid red;
+    height: 90vh;
+    /* border: 2px solid yellow; */
 }
 .headingSecTitle{
     display: block;
@@ -75,3 +73,4 @@
     }
     
 }
+
