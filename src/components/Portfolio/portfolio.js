@@ -10,8 +10,8 @@ function Portfolio() {
         <h1 className="headingSec">
           <span className="headingSecTitle">Portfolio</span>
           <span className="headingSecDesc">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Cupiditate impedit perspiciatis ad nemo maxime sunt nobis. <br />{" "}
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit.{" "}
+            Cupiditate impedit perspiciatis ad nemo maxime sunt nobis.{" "}
             Facilis architecto voluptatem voluptate.
           </span>
         </h1>

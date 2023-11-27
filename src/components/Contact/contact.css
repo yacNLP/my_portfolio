@@ -50,13 +50,13 @@
 }
 
 .contactTitle {
-    display: block;
+    display: inline-block;
     font-size: 3rem;
     text-transform: uppercase;
     letter-spacing: 3px;
-    text-align: center;
-    margin: 8rem 0; 
-    position: relative;
+    margin-bottom: 3.5rem;
+    border-bottom: 3px solid rgb(25, 65, 145);
+    margin: 8rem 0;
 }
 
 
@@ -66,6 +66,7 @@
     font-size: 1rem;
     font-weight: 500;
     max-width: 80rem;
+    margin-bottom: 1rem;
 }
 
 @media screen and (max-height: 726px) {

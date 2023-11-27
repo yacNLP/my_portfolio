@@ -4,15 +4,28 @@
     height: 90vh;
     /* border: 2px solid yellow; */
 }
-#portfolio .headingSecTitle{
-    display: block;
+#portfolio .headingSecTitle {
+    display: inline-block;
     font-size: 3rem;
     text-transform: uppercase;
     letter-spacing: 3px;
-    text-align: center;
-    margin-bottom: 0.5rem;
-    position: relative;
+    margin-bottom: 3.5rem;
+    border-bottom: 3px solid rgb(25, 65, 145);
+    
 }
+
+
+#portfolio .headingSecDesc {
+    display: block;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 500;
+    max-width: 80rem;
+    margin: auto;
+    width: 45rem;
+
+}
+
 
 .projectsContent{
     display: flex;
@@ -70,6 +83,13 @@
 
     .project{
         border-bottom: 2px solid rgb(40, 40, 40); /* Ajoutez cette ligne pour le trait séparateur */
+    }
+    #portfolio .headingSecTitle  {
+       
+        font-size: 2rem;
+    }
+    #portfolio .headingSecDesc{
+        width: auto;
     }
     
 }
