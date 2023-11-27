@@ -4,7 +4,7 @@
     height: 90vh;
     /* border: 2px solid yellow; */
 }
-.headingSecTitle{
+#portfolio .headingSecTitle{
     display: block;
     font-size: 3rem;
     text-transform: uppercase;
