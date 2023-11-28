@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.f43f97ed.css",
-    "main.js": "/my_portfolio/static/js/main.cadad3e1.js",
+    "main.css": "/my_portfolio/static/css/main.cd7726b7.css",
+    "main.js": "/my_portfolio/static/js/main.307e7b55.js",
     "static/media/mte-home.png": "/my_portfolio/static/media/mte-home.17f2a5320eda820ce9a0.png",
     "static/media/me.jpg": "/my_portfolio/static/media/me.98fa42c0512fc2e2c327.jpg",
     "static/media/safescale-web-accueil.png": "/my_portfolio/static/media/safescale-web-accueil.75f0391873bd3a89971a.png",
@@ -10,11 +10,11 @@
     "static/media/hiring.png": "/my_portfolio/static/media/hiring.38c77da64dcb16eca70f.png",
     "static/media/ConntactMe.png": "/my_portfolio/static/media/ConntactMe.85b72314fa30bc76799a.png",
     "index.html": "/my_portfolio/index.html",
-    "main.f43f97ed.css.map": "/my_portfolio/static/css/main.f43f97ed.css.map",
-    "main.cadad3e1.js.map": "/my_portfolio/static/js/main.cadad3e1.js.map"
+    "main.cd7726b7.css.map": "/my_portfolio/static/css/main.cd7726b7.css.map",
+    "main.307e7b55.js.map": "/my_portfolio/static/js/main.307e7b55.js.map"
   },
   "entrypoints": [
-    "static/css/main.f43f97ed.css",
-    "static/js/main.cadad3e1.js"
+    "static/css/main.cd7726b7.css",
+    "static/js/main.307e7b55.js"
   ]
 }
