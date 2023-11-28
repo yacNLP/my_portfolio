@@ -18,18 +18,21 @@ function Portfolio() {
 
         <div className="projectsContent">
           <div className="project">
-            <h3 className="projectTitle">Safescale</h3>
+           
             <img src={safescaleImg} alt="" className="projectImg" />
+            <h3 className="projectTitle">Safescale</h3>
             <div className="projectDesc">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti voluptates fuga tempore nesciunt id delectus!</div>
           </div>
           <div className="project">
-            <h3 className="projectTitle">Stockwater</h3>
+            
             <img src={mteImg} alt="" className="projectImg" />
+            <h3 className="projectTitle">Stockwater</h3>
             <div className="projectDesc">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti voluptates fuga tempore nesciunt id delectus!</div>
           </div>
           <div className="project">
-            <h3 className="projectTitle">Side Effects Detection</h3>
+            
             <img src={classifierImh} alt="" className="projectImg" />
+            <h3 className="projectTitle">Side Effects Detection</h3>
             <div className="projectDesc">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti voluptates fuga tempore nesciunt id delectus!</div>
           </div>
         </div>

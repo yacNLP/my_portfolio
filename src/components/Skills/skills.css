@@ -33,6 +33,7 @@
     max-width: 80rem;
     margin: auto;
     width: 45rem;
+    padding: 0 1rem;
 
 }
 
@@ -96,11 +97,11 @@
     display: flex;
     flex-wrap: wrap;
     /* border: 2px solid red; */
-    justify-content: start;
+    /* justify-content: start; */
 }
 
 .skills__skill {
-    padding: 1rem 1rem;
+    padding: 0.7rem 0.7rem;
     margin-bottom: 1.5rem;
     margin-right: 1.5rem;
     font-size: 1rem;
@@ -121,9 +122,7 @@
         padding: 0.8rem 0.8rem;
         margin: 0.5rem;
     }
-    .skills{
-        justify-content: center;
-    }
+   
     #aboutMeSection .headingSecTitle  {
        
         font-size: 2rem;
