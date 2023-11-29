@@ -21,7 +21,7 @@ function Portfolio() {
             <h3 className="projectTitle">Safescale</h3>
             <div className="projectDesc">
               Safescale is a DevOps, Open Source and multi-cloud solution that
-              allows to configure and deploy IT infrastructures
+              allows to configure and deploy IT infrastructures.
             </div>
             <div className="projectTags">#React #Go #Grpc</div>
           </div>

@@ -31,7 +31,7 @@ const Intro = () => {
           <p class="introText">
             A Frontend Web Developer crafting intuitive interfaces for
             websites and applications. I also blend linguistics and computer science,
-            contributing to Natural Language Processing (NLP) projects
+            contributing to Natural Language Processing (NLP) projects.
           </p>
         </div>
         <div class="projectsBtnContent">

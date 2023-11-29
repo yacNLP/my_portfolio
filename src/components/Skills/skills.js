@@ -41,7 +41,7 @@ const Skills = () => {
               <div className="domain">
                 <img src={frontEnd} alt="" className="domainImg" />
                 <div className="domainDesc">
-                  <h2 className="domainTitle">Web developpment</h2>
+                  <h2 className="domainTitle">Web Developpment</h2>
                   <p className="domainDesc">
                     Crafting dynamic websites with a focus on user-friendly
                     experiences, using technologies like React.
