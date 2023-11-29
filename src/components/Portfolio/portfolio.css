@@ -44,7 +44,7 @@
 
 .project{
     width: 30rem;
-    height: 32rem;
+    height: 33rem;
     /* border: 2px solid blue; */
     
     position: relative;
@@ -59,16 +59,17 @@
    
     display: block;
     font-size: 1.5rem;
-    text-transform: uppercase;
+    text-transform: capitalize;
     letter-spacing: 1.5px;
     text-align: center;
     position: relative;
+    font-style: italic;
     
 }
 .projectDesc{
     position: absolute;
     bottom: 4rem;
-    text-align: center;
+    text-align: justify;
     
 }
 
@@ -120,7 +121,6 @@
     }
     .projectTitle{
         font-size: 1.3rem;
-        text-transform: capitalize;
     }
     .projectDesc{
         margin-bottom: 2rem;
@@ -129,4 +129,11 @@
         margin-bottom: 1.5rem;
     }
     
+}
+
+
+@media screen and (max-width: 461px) {
+    .projectTitle{
+        margin-bottom: 4rem;
+    }
 }

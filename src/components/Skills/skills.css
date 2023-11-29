@@ -131,10 +131,14 @@
     }
     #aboutMeSection .headingSecDesc{
         width: auto;
+        margin: 0 1rem;
     }
 
     .domainDesc{
         font-size: 0.9rem;
+    }
+    .domain{
+        height: 10rem;
     }
      
 

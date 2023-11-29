@@ -29,9 +29,8 @@ function Portfolio() {
             <img src={mteImg} alt="" className="projectImg" />
             <h3 className="projectTitle">Stockwater</h3>
             <div className="projectDesc">
-              This app provides a comprehensive overview of all lakes across
-              France. Easily explore a comprehensive database, discover detailed
-              information about each lake.
+              This web application offers a complete overview of all lakes in France,
+              providing detailed information about each specific lake.
             </div>
             <div className="projectTags">#React</div>
           </div>
@@ -41,7 +40,7 @@ function Portfolio() {
             <div className="projectDesc">
               It's a machine learning system that automatically categorizes
               tweets. It helps determine if a tweet mentions a side effect of a
-              drug
+              drug.
             </div>
             <div className="projectTags">#Python #NLP</div>
           </div>
