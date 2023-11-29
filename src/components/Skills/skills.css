@@ -22,18 +22,20 @@
     margin-bottom: 3.5rem;
     border-bottom: 3px solid rgb(25, 65, 145);
     
+    
 }
 
 
 #aboutMeSection .headingSecDesc {
     display: block;
-    text-align: center;
+    text-align: justify;
     font-size: 1rem;
     font-weight: 500;
     max-width: 80rem;
     margin: auto;
-    width: 45rem;
+    width: 50rem;
     padding: 0 1rem;
+    line-height: 1.5;
 
 }
 
@@ -129,6 +131,10 @@
     }
     #aboutMeSection .headingSecDesc{
         width: auto;
+    }
+
+    .domainDesc{
+        font-size: 0.9rem;
     }
      
 
